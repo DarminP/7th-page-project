@@ -1,0 +1,41 @@
+body{
+    background-color: antiquewhite;
+}
+.stuff{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 200px;
+    
+}
+.title{
+    font-family: 'Sigmar One', cursive;
+    font-size: 70px;
+    color: #5c070c;
+}
+.sub-title{
+    font-family: 'Fredericka the Great', cursive;
+    color: #c24c08;
+    font-size: 40px;
+}
+.copyright{
+    position: absolute;
+    bottom: 2px;
+   
+    
+}
+.footer-text{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 20px;
+    color: #c24c08;
+}
+
+
+
+/* 
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-between; 
+    align-items: center
+*/
