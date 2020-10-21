@@ -31,7 +31,7 @@ body{
     color: #c24c08;
 }
 
-@media screen and (max-width: 780px){
+@media screen and (min-width: 780px){
     .title{
         font-size: 50px;
         
